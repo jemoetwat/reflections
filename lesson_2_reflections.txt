@@ -26,3 +26,4 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges 
 
 	..
 
+.
